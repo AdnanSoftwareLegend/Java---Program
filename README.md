@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Adnan Elahe</h1>
 
-<img align="right" alt="coding"width="400"src="https://media1.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif?cid=ecf05e47lhsila5h2l5wiyrqqk307rx9ywr9j5j8jtunsloh&rid=giphy.gif&ct=g"> 
+<img align="right" alt="coding"width="400"src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgifdb.com%2Fgif%2Fscrolling-up-green-system-coding-nxt2vg8bl6e4wbo1.html&psig=AOvVaw3FY3CiN98QszObkPhKoFxF&ust=1675784678838000&source=images&cd=vfe&ved=0CA8QjRxqFwoTCLD_8sqegf0CFQAAAAAdAAAAABAw"> 
 - 🔭 I’m currently studying Computer Science and Engineer 
 
 - 📫 How to reach me **adnanelahe21@gmail.com**
