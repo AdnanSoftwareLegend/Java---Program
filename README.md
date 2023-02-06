@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Adnan Elahe</h1>
 
-<img align="right" alt="coding"width="400"src="![image](https://user-images.githubusercontent.com/123932208/217019406-92308f0d-6436-4b04-a142-df1f005e1f5a.png)
-"> 
+ 
 - 🔭 I’m currently studying Computer Science and Engineer 
 
 - 📫 How to reach me **adnanelahe21@gmail.com**
